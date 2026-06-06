@@ -2,7 +2,8 @@
 
 > A robust, console-based banking application demonstrating advanced Object-Oriented Programming (OOP) principles, file-based data persistence, and custom security protocols.
 
-[![Demo Video](https://www.linkedin.com/feed/update/urn:li:activity:7414740688355082240/)]
+🎥 **Watch the Demo Video on LinkedIn:**
+[[Demo Video](https://www.linkedin.com/feed/update/urn:li:activity:7414740688355082240/)]
 
 ## 📖 Project Overview
 This project simulates a real-world banking backend environment. It allows administrative users to manage client profiles, process financial transactions, and handle currency exchanges through a highly structured, menu-driven console interface. 
