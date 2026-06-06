@@ -1,33 +1,42 @@
-# 🏦 C++ OOP Banking Management System
+# 🏦 C++ OOP Bank Management System
 
-A console-based banking management system developed using **C++** with a strong focus on **Object-Oriented Programming (OOP)** principles.
+> A robust, console-based banking application demonstrating advanced Object-Oriented Programming (OOP) principles, file-based data persistence, and custom security protocols.
 
-## 🔹 Project Overview
-This project simulates a real-world banking system where users can manage clients, perform transactions, and handle currencies through a clean console interface.
+[![Demo Video](https://www.linkedin.com/feed/update/urn:li:activity:7414740688355082240/)]
 
-## 🔹 Features
-- Client management (Add, Delete, Update, Search)
-- Deposit and Withdraw operations
-- User management system
-- Currency list and exchange calculator
-- File handling for data persistence
-- Menu-driven console interface
+## 📖 Project Overview
+This project simulates a real-world banking backend environment. It allows administrative users to manage client profiles, process financial transactions, and handle currency exchanges through a highly structured, menu-driven console interface. 
 
-## 🔹 OOP Concepts Applied
-- Classes and Objects
-- Encapsulation
-- Abstraction
-- Separation of responsibilities
-- Modular design
+The core focus of this system is strictly adhering to clean C++ architecture, separating responsibilities, and ensuring secure execution of operations without relying on external database frameworks.
 
-## 🔹 Technologies Used
-- C++
-- Object-Oriented Programming (OOP)
-- File Handling
+---
 
-## 🎥 Demo Video
-A demo video of the project is available on my LinkedIn profile.
+## ✨ Core Features
+*   **👥 Client Management (CRUD):** Full Create, Read, Update, and Delete operations for client profiles and user accounts.
+*   **💳 Transaction Workflows:** Secure handling of deposit and withdraw operations, automatically updating client balances.
+*   **💱 Currency Exchange Engine:** Built-in currency list and real-time exchange calculator.
+*   **🔐 Custom Security (RBAC):** Secured by a custom bitwise Role-Based Access Control engine to restrict user permissions.
+*   **💾 Data Persistence:** Robust `.txt` file-handling mechanisms to securely save and load system states across sessions.
+
+---
+
+## 🧠 OOP Architecture & Concepts Applied
+This project was architected strictly using C++ OOP methodologies to ensure modularity and highly maintainable code:
+*   **Classes and Objects**
+*   **Encapsulation** (Protecting sensitive financial data)
+*   **Abstraction** (Hiding complex file-handling logic from the UI)
+*   **Separation of Responsibilities**
+*   **Modular Design**
+
+---
+
+## 🛠️ Tech Stack
+*   **Language:** C++
+*   **Architecture:** Object-Oriented Programming (OOP)
+*   **Storage:** Local File Handling (`.txt` persistence)
+
+---
 
 ## 👨‍💻 Author
-**Anas Aburshaid**  
-Software Engineering Student
+**Anas Amjad Aburshaid**  
+[LinkedIn](https://www.linkedin.com/in/anas-aburshaid-950192367/) | [GitHub](https://github.com/AnasAburshaid)
